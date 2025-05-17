@@ -22,7 +22,7 @@ I'll respond with details about access, payment (if applicable), and delivery.
 - Premium tools, templates, or resources
 - Organized and easy to browse
 
-> **Note:** This repo only contains placeholders or update logs. Actual files are shared privately.
+> **Note:** This contains the encrypted files If you want open source DM me with the price.  [@rejerk](https://t.me/rejerk)
 
 ---
 

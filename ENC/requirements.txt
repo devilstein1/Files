@@ -1,0 +1,7 @@
+cython
+rich
+requests
+telebot
+python-cfonts
+pytz
+astor

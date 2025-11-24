@@ -8,81 +8,80 @@
 
 ## ✨ Overview
 
-Welcome to one of the **strongest Python obfuscation systems**
-available.\
-This tool delivers **deep, complex, and highly effective** protection
-for your Python projects --- ideal for developers who need **serious
-code security**.
+Experience one of the **most advanced Python obfuscation systems**
+available today.\
+This tool delivers **deep, complex, and highly resilient** protection
+for your Python source code --- perfect for developers who demand
+**serious, professional-grade security**.
 
-Explore usage samples inside the `examples/` directory to get started
-quickly.
+Explore real usage examples in the `examples/` directory.
 
 ------------------------------------------------------------------------
 
-## 🧩 Versions Included
+## 🧩 Available Modes
 
-This repo includes **two optimized modes**, each provided in its own
-file:
+This suite includes **two specialized working modes**, each designed for
+different workflows:
 
-### 🟪 Normal Mode
+### 🟪 Normal Mode --- Local Encryption
 
 ``` bash
 python enc.py
 ```
 
-Prompts you for the Python file you want to encrypt and saves the result
-locally.
+Prompts for a Python file, encrypts it, and saves it locally.
 
-### 🤖 Telegram Bot Mode
+------------------------------------------------------------------------
+
+### 🤖 Bot Mode --- Encrypt via Telegram Bot
 
 ``` bash
 python enc.py bot
 ```
 
-Encrypt files directly *through your Telegram bot*.
+Encrypt files **remotely through your Telegram bot**.
 
-To use this mode:
+Setup steps:
 
-1.  Create a bot via **@BotFather**\
-2.  Retrieve your `chat_id` from **@username_to_id_bot**
+1.  Create your bot using **[@BotFather](https://t.me/botfather)**\
+2.  Retrieve your chat ID using
+    **[@username_to_id_bot](https://t.me/username_to_id_bot)**
 
-Once set, your bot becomes an **on-demand encryption tool**.
+Your Telegram bot becomes your **personal encryption tool** --- simple,
+fast, and always accessible.
 
 ------------------------------------------------------------------------
 
-## 💳 Purchase Plans
+## 💳 Subscription Plans
 
-You can access the full encryption suite through flexible plans:
+Choose the plan that fits your needs:
 
--   ⭐ **1 Month**\
--   ⭐⭐ **3 Months**\
--   ⭐⭐⭐ **6 Months**\
--   🌟 **1 Year** (best value)
+-   ⭐ **1 Month**
+-   ⭐⭐ **3 Months**
+-   ⭐⭐⭐ **6 Months**
+-   🌟 **1 Year** (Best Offer)
 
-A **trial version** is also available so you can test everything
-confidently.
+A **trial version** is also available for testing.
 
 ------------------------------------------------------------------------
 
 ## 📞 Contact
 
-Interested in purchasing this encryption system?\
-Reach out directly via:
-
-👉 **t.me/rejerk**
+For purchasing and inquiries, contact:\
+👉 **[@rejerk](https://t.me/rejerk)**
 
 ------------------------------------------------------------------------
 
-## 🛡️ Why This Encryption?
+## 🛡️ Key Advantages
 
--   100% powerful Python encryption\
--   Fully protects your source code\
--   Simple to use\
--   Multiple modes for different workflows\
--   Built for developers who need **real security**, not gimmicks
+-   Industrial‑strength Python encryption\
+-   Full protection of your source code\
+-   Easy to use, powerful results\
+-   Works both locally and via Telegram bot\
+-   Built for developers who need **real security**
 
 ------------------------------------------------------------------------
 
-### 💠 Thank you for checking out this project!
+### 💠 Thank You
 
-Your Python code deserves the highest level of protection.
+Your code deserves the highest level of protection.

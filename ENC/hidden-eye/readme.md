@@ -68,7 +68,7 @@ A **trial version** is also available for testing.
 ## 📞 Contact
 
 For purchasing and inquiries, contact:
-👉 **[@rejerk](https://t.me/rejerk?text=I+wanna+buy+your+python+hidden-eye+obf!)**
+👉 **[@rejerk](https://t.me/panteri?text=I+wanna+buy+your+python+hidden-eye+obf!)**
 
 ------------------------------------------------------------------------
 

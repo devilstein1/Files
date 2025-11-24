@@ -43,7 +43,7 @@ Encrypt files **remotely through your Telegram bot**.
 
 Setup steps:
 
-1.  Create your bot using **[@BotFather](https://t.me/botfather)**\
+1.  Create your bot using **[@BotFather](https://t.me/botfather)**
 2.  Retrieve your chat ID using
     **[@username_to_id_bot](https://t.me/username_to_id_bot)**
 
@@ -67,8 +67,8 @@ A **trial version** is also available for testing.
 
 ## 📞 Contact
 
-For purchasing and inquiries, contact:\
-👉 **[@rejerk](https://t.me/rejerk)**
+For purchasing and inquiries, contact:
+👉 **[@rejerk](https://t.me/rejerk?text=I+wanna+buy+your+python+hidden-eye+obf!)**
 
 ------------------------------------------------------------------------
 

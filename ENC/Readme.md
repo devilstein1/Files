@@ -44,7 +44,7 @@ You can purchase any encryption package or request a trial through Telegram:
 
 ---
 
-## 🖼️ **Preview**
+## 🖼️ **STEIN**
 ![Preview](https://raw.githubusercontent.com/devilstein1/Files/refs/heads/main/ENC/4c4a122b-c4ae-4c58-bef3-db78022cf0c8_00002.png)
 
 ---

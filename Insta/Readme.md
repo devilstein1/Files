@@ -6,8 +6,9 @@ This repository contains two version-specific Python scripts. They are separated
 ---
 
 **Files**  
-- **`jacking3.12.py`** — Target runtime: **Python 3.12**  
-- **`jacking3.13.py`** — Target runtime: **Python 3.13**
+- **`3.11.py`** — Target runtime: **Python 3.11**  
+- **`3.12.py`** — Target runtime: **Python 3.12**  
+- **`3.13.py`** — Target runtime: **Python 3.13**
 
 ---
 
@@ -27,4 +28,4 @@ This project is maintained by [@rejerk](https://t.me/rejerk) on Telegram for leg
 ---
 
 **Short summary (one-line)**  
-There are 2 files — `jacking3.12.py` and `jacking3.13.py`. These files target Python 3.12 and 3.13 respectively. They implement filters for posts, followers, and account year. Maintainer: [@rejerk](https://t.me/rejerk).
+There are 2 files —`3.11.py` and `3.12.py` and `3.13.py`. These files target Python 3.12 and 3.13 respectively. They implement filters for posts, followers, and account year. Maintainer: [@rejerk](https://t.me/rejerk).
